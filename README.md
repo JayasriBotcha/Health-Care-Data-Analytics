@@ -10,5 +10,7 @@ Interactive Power BI dashboard analyzing health metrics such as BMI and age, usi
 - `Image Dataset`
 - `Measures and Columns Formula`
 - `Organs`
+- <img width="2177" height="1254" alt="image" src="https://github.com/user-attachments/assets/0bf21167-90c0-431c-a1a9-5692976eef65" />
+
 
 
