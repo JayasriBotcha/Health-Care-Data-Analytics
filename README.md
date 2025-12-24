@@ -4,11 +4,11 @@ Interactive Power BI dashboard analyzing health metrics such as BMI and age, usi
 
 ### Files
 - `Smoking Health Risk Analysis.pbix` – Power BI report
-- Background Viz
-- condition
-- health_dataset
-- Image Dataset
-- Measures and Columns Formula
-- Organs
+- `Background Viz`
+- `condition`
+- `health_dataset`
+- `Image Dataset`
+- `Measures and Columns Formula`
+- `Organs`
 
 
